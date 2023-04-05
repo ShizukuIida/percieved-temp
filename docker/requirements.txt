@@ -1,0 +1,16 @@
+tweepy
+pandas
+jupyter
+mecab-python3
+unidic
+japanize-matplotlib
+seaborn
+scikit-learn
+statsmodels
+lmdiag
+pymongo
+ssh_pymongo
+neologdn
+fastdtw
+dtw
+wordcloud
